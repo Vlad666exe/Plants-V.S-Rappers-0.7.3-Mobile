@@ -1,0 +1,40 @@
+{
+	"songs": [
+		[
+			"Bloom N brainz",
+			"peashooter",
+			[
+				0,
+				215,
+				0
+			]
+		],
+		[
+			"Bad Bash",
+			"Gatling",
+			[
+				0,
+				215,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"peashooter",
+		"bf",
+		"gf"
+	],
+	"storyName": "Plants VS Rappers",
+	"weekName": "weekPVZ",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
