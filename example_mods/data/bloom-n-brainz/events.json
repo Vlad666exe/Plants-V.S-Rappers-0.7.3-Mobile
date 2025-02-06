@@ -1,0 +1,759 @@
+{
+	"song": {
+		"speed": 2.1,
+		"stage": "Lawn",
+		"player1": "zombiebf",
+		"player2": "Peashooter",
+		"player3": null,
+		"events": [
+			[
+				74770.9923664122,
+				[
+					[
+						"cameraZoomIn",
+						"1.4",
+						"35"
+					]
+				]
+			],
+			[
+				87938.9312977099,
+				[
+					[
+						"Trigger Green light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				88396.9465648855,
+				[
+					[
+						"Trigger Green light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				88854.961832061,
+				[
+					[
+						"Trigger Green light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				89312.9770992366,
+				[
+					[
+						"Trigger Green light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				89770.9923664122,
+				[
+					[
+						"Trigger Green light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				90229.0076335878,
+				[
+					[
+						"Trigger Green light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				90687.0229007633,
+				[
+					[
+						"Trigger Green light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				91145.0381679389,
+				[
+					[
+						"Trigger Green light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				91488.5496183206,
+				[
+					[
+						"cameraZoomIn",
+						"0.78",
+						"1"
+					]
+				]
+			],
+			[
+				91603.0534351145,
+				[
+					[
+						"Trigger Green light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				92061.0687022901,
+				[
+					[
+						"Trigger Green light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				92519.0839694656,
+				[
+					[
+						"Trigger Green light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				92977.0992366412,
+				[
+					[
+						"Trigger Green light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				93435.1145038168,
+				[
+					[
+						"Trigger Green light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				93893.1297709923,
+				[
+					[
+						"Trigger Green light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94351.1450381679,
+				[
+					[
+						"Trigger Green light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94809.1603053435,
+				[
+					[
+						"Trigger Green light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95267.175572519,
+				[
+					[
+						"Trigger Purple light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95725.1908396946,
+				[
+					[
+						"Trigger Purple light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96183.2061068702,
+				[
+					[
+						"Trigger Purple light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96641.2213740458,
+				[
+					[
+						"Trigger Purple light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				97099.2366412213,
+				[
+					[
+						"Trigger Purple light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				97557.2519083969,
+				[
+					[
+						"Trigger Purple light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				98015.2671755725,
+				[
+					[
+						"Trigger Purple light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				98473.2824427481,
+				[
+					[
+						"Trigger Purple light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				98931.2977099236,
+				[
+					[
+						"Trigger Purple light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				99389.3129770992,
+				[
+					[
+						"Trigger Purple light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				99847.3282442748,
+				[
+					[
+						"Trigger Purple light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100305.34351145,
+				[
+					[
+						"Trigger Purple light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100763.358778626,
+				[
+					[
+						"Trigger Purple light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				101221.374045801,
+				[
+					[
+						"Trigger Purple light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				101679.389312977,
+				[
+					[
+						"Trigger Purple light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				102137.404580153,
+				[
+					[
+						"Trigger Purple light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				102595.419847328,
+				[
+					[
+						"Trigger Green light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				103053.435114504,
+				[
+					[
+						"Trigger Purple light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				103511.450381679,
+				[
+					[
+						"Trigger Green light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				103969.465648855,
+				[
+					[
+						"Trigger Purple light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				104427.48091603,
+				[
+					[
+						"Trigger Green light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				104885.496183206,
+				[
+					[
+						"Trigger Purple light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				105343.511450382,
+				[
+					[
+						"Trigger Green light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				105801.526717557,
+				[
+					[
+						"Trigger Purple light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				106259.541984733,
+				[
+					[
+						"Trigger Green light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				106717.557251908,
+				[
+					[
+						"Trigger Purple light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				107175.572519084,
+				[
+					[
+						"Trigger Green light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				107633.587786259,
+				[
+					[
+						"Trigger Purple light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				108091.603053435,
+				[
+					[
+						"Trigger Green light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				108549.618320611,
+				[
+					[
+						"Trigger Purple light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				109007.633587786,
+				[
+					[
+						"Trigger Green light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				109465.648854962,
+				[
+					[
+						"Trigger Purple light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				109923.664122137,
+				[
+					[
+						"Trigger Green light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				110381.679389313,
+				[
+					[
+						"Trigger Purple light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				110839.694656488,
+				[
+					[
+						"Trigger Green light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				111297.709923664,
+				[
+					[
+						"Trigger Purple light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				111755.72519084,
+				[
+					[
+						"Trigger Green light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				112213.740458015,
+				[
+					[
+						"Trigger Purple light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				112671.755725191,
+				[
+					[
+						"Trigger Green light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				113129.770992366,
+				[
+					[
+						"Trigger Purple light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				113587.786259542,
+				[
+					[
+						"Trigger Green light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				114045.801526717,
+				[
+					[
+						"Trigger Purple light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				114503.816793893,
+				[
+					[
+						"Trigger Green light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				114961.832061069,
+				[
+					[
+						"Trigger Purple light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				115419.847328244,
+				[
+					[
+						"Trigger Green light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				115877.86259542,
+				[
+					[
+						"Trigger Purple light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116335.877862595,
+				[
+					[
+						"Trigger Green light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116793.893129771,
+				[
+					[
+						"Trigger Purple light CON",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117251.908396946,
+				[
+					[
+						"Trigger Green light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				119083.969465649,
+				[
+					[
+						"Trigger Green light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120916.030534351,
+				[
+					[
+						"Trigger Green light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				124580.152671756,
+				[
+					[
+						"Trigger Purple light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				126412.213740458,
+				[
+					[
+						"Trigger Purple light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				128244.27480916,
+				[
+					[
+						"Trigger Purple light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135572.519083969,
+				[
+					[
+						"Trigger Green light",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135687.022900763,
+				[
+					[
+						"Trigger Purple light",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "zombiegf",
+		"bpm": 131,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "bloom-n-brainz"
+	}
+}
