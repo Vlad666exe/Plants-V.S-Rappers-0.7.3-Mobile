@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ZombieWalking3.png">
+	
+	
+	<SubTexture name="Zombie boppin0000" x="11" y="11" width="224" height="318" frameX="-2" frameY="-14" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0001" x="239" y="11" width="227" height="320" frameX="0" frameY="-12" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0002" x="470" y="11" width="227" height="326" frameX="-4" frameY="-6" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0003" x="470" y="11" width="227" height="326" frameX="-4" frameY="-6" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0004" x="701" y="11" width="217" height="330" frameX="-9" frameY="-2" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0005" x="701" y="11" width="217" height="330" frameX="-9" frameY="-2" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0006" x="11" y="345" width="213" height="332" frameX="-13" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0007" x="11" y="345" width="213" height="332" frameX="-13" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0008" x="11" y="345" width="213" height="332" frameX="-13" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0009" x="11" y="345" width="213" height="332" frameX="-13" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0010" x="228" y="345" width="213" height="332" frameX="-12" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0011" x="228" y="345" width="213" height="332" frameX="-12" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0012" x="446" y="345" width="213" height="330" frameX="-12" frameY="-2" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0013" x="446" y="345" width="213" height="330" frameX="-12" frameY="-2" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0014" x="11" y="11" width="224" height="318" frameX="-2" frameY="-14" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0015" x="239" y="11" width="227" height="320" frameX="0" frameY="-12" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0016" x="470" y="11" width="227" height="326" frameX="-4" frameY="-6" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0017" x="470" y="11" width="227" height="326" frameX="-4" frameY="-6" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0018" x="701" y="11" width="217" height="330" frameX="-9" frameY="-2" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0019" x="701" y="11" width="217" height="330" frameX="-9" frameY="-2" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0020" x="11" y="345" width="213" height="332" frameX="-13" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0021" x="11" y="345" width="213" height="332" frameX="-13" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0022" x="11" y="345" width="213" height="332" frameX="-13" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0023" x="11" y="345" width="213" height="332" frameX="-13" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0024" x="228" y="345" width="213" height="332" frameX="-12" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0025" x="228" y="345" width="213" height="332" frameX="-12" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0026" x="446" y="345" width="213" height="330" frameX="-12" frameY="-2" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0027" x="446" y="345" width="213" height="330" frameX="-12" frameY="-2" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0028" x="11" y="11" width="224" height="318" frameX="-2" frameY="-14" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0029" x="239" y="11" width="227" height="320" frameX="0" frameY="-12" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0030" x="470" y="11" width="227" height="326" frameX="-4" frameY="-6" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0031" x="470" y="11" width="227" height="326" frameX="-4" frameY="-6" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0032" x="701" y="11" width="217" height="330" frameX="-9" frameY="-2" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0033" x="701" y="11" width="217" height="330" frameX="-9" frameY="-2" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0034" x="11" y="345" width="213" height="332" frameX="-13" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0035" x="11" y="345" width="213" height="332" frameX="-13" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0036" x="11" y="345" width="213" height="332" frameX="-13" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0037" x="11" y="345" width="213" height="332" frameX="-13" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0038" x="228" y="345" width="213" height="332" frameX="-12" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0039" x="228" y="345" width="213" height="332" frameX="-12" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0040" x="446" y="345" width="213" height="330" frameX="-12" frameY="-2" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0041" x="446" y="345" width="213" height="330" frameX="-12" frameY="-2" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0042" x="11" y="11" width="224" height="318" frameX="-2" frameY="-14" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0043" x="239" y="11" width="227" height="320" frameX="0" frameY="-12" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0044" x="470" y="11" width="227" height="326" frameX="-4" frameY="-6" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0045" x="470" y="11" width="227" height="326" frameX="-4" frameY="-6" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0046" x="701" y="11" width="217" height="330" frameX="-9" frameY="-2" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0047" x="701" y="11" width="217" height="330" frameX="-9" frameY="-2" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0048" x="11" y="345" width="213" height="332" frameX="-13" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0049" x="11" y="345" width="213" height="332" frameX="-13" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0050" x="11" y="345" width="213" height="332" frameX="-13" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0051" x="11" y="345" width="213" height="332" frameX="-13" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0052" x="228" y="345" width="213" height="332" frameX="-12" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0053" x="228" y="345" width="213" height="332" frameX="-12" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0054" x="446" y="345" width="213" height="330" frameX="-12" frameY="-2" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0055" x="446" y="345" width="213" height="330" frameX="-12" frameY="-2" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0056" x="11" y="11" width="224" height="318" frameX="-2" frameY="-14" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0057" x="239" y="11" width="227" height="320" frameX="0" frameY="-12" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0058" x="470" y="11" width="227" height="326" frameX="-4" frameY="-6" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0059" x="470" y="11" width="227" height="326" frameX="-4" frameY="-6" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0060" x="701" y="11" width="217" height="330" frameX="-9" frameY="-2" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0061" x="701" y="11" width="217" height="330" frameX="-9" frameY="-2" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0062" x="11" y="345" width="213" height="332" frameX="-13" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0063" x="11" y="345" width="213" height="332" frameX="-13" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0064" x="11" y="345" width="213" height="332" frameX="-13" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0065" x="11" y="345" width="213" height="332" frameX="-13" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0066" x="228" y="345" width="213" height="332" frameX="-12" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0067" x="228" y="345" width="213" height="332" frameX="-12" frameY="0" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0068" x="446" y="345" width="213" height="330" frameX="-12" frameY="-2" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0069" x="446" y="345" width="213" height="330" frameX="-12" frameY="-2" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie boppin0070" x="11" y="11" width="224" height="318" frameX="-2" frameY="-14" frameWidth="231" frameHeight="332" />
+	<SubTexture name="Zombie chantin 20000" x="663" y="345" width="231" height="323" frameX="-26" frameY="-22" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20001" x="663" y="345" width="231" height="323" frameX="-26" frameY="-22" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20002" x="11" y="682" width="248" height="320" frameX="-16" frameY="-25" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20003" x="263" y="682" width="246" height="320" frameX="-8" frameY="-26" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20004" x="263" y="682" width="246" height="320" frameX="-8" frameY="-26" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20005" x="513" y="682" width="243" height="316" frameX="-1" frameY="-29" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20006" x="760" y="682" width="244" height="307" frameX="0" frameY="-39" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20007" x="11" y="1006" width="233" height="300" frameX="-10" frameY="-45" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20008" x="248" y="1006" width="210" height="322" frameX="-33" frameY="-23" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20009" x="463" y="1006" width="180" height="335" frameX="-64" frameY="-11" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20010" x="647" y="1006" width="168" height="336" frameX="-75" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20011" x="647" y="1006" width="168" height="336" frameX="-75" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20012" x="819" y="1006" width="176" height="336" frameX="-68" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20013" x="11" y="1347" width="205" height="328" frameX="-39" frameY="-18" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20014" x="11" y="1347" width="205" height="328" frameX="-39" frameY="-18" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20015" x="220" y="1347" width="226" height="320" frameX="-18" frameY="-26" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20016" x="450" y="1347" width="201" height="342" frameX="-42" frameY="-3" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20017" x="655" y="1347" width="189" height="345" frameX="-55" frameY="0" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20018" x="655" y="1347" width="189" height="345" frameX="-55" frameY="0" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20019" x="11" y="1696" width="187" height="346" frameX="-56" frameY="0" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20020" x="202" y="1696" width="189" height="346" frameX="-54" frameY="0" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20021" x="202" y="1696" width="189" height="346" frameX="-54" frameY="0" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20022" x="396" y="1696" width="204" height="343" frameX="-39" frameY="-2" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20023" x="604" y="1696" width="211" height="332" frameX="-33" frameY="-13" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20024" x="11" y="2046" width="214" height="329" frameX="-30" frameY="-17" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20025" x="11" y="2046" width="214" height="329" frameX="-30" frameY="-17" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20026" x="229" y="2046" width="204" height="335" frameX="-39" frameY="-11" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20027" x="437" y="2046" width="201" height="336" frameX="-42" frameY="-10" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20028" x="437" y="2046" width="201" height="336" frameX="-42" frameY="-10" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20029" x="643" y="2046" width="201" height="336" frameX="-42" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20030" x="643" y="2046" width="201" height="336" frameX="-42" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20031" x="643" y="2046" width="201" height="336" frameX="-42" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20032" x="643" y="2046" width="201" height="336" frameX="-42" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20033" x="643" y="2046" width="201" height="336" frameX="-42" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20034" x="643" y="2046" width="201" height="336" frameX="-42" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20035" x="643" y="2046" width="201" height="336" frameX="-42" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20036" x="643" y="2046" width="201" height="336" frameX="-42" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20037" x="643" y="2046" width="201" height="336" frameX="-42" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20038" x="643" y="2046" width="201" height="336" frameX="-42" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20039" x="643" y="2046" width="201" height="336" frameX="-42" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20040" x="643" y="2046" width="201" height="336" frameX="-42" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20041" x="643" y="2046" width="201" height="336" frameX="-42" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20042" x="643" y="2046" width="201" height="336" frameX="-42" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20043" x="643" y="2046" width="201" height="336" frameX="-42" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20044" x="643" y="2046" width="201" height="336" frameX="-42" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20045" x="643" y="2046" width="201" height="336" frameX="-42" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20046" x="643" y="2046" width="201" height="336" frameX="-42" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20047" x="643" y="2046" width="201" height="336" frameX="-42" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20048" x="663" y="345" width="231" height="323" frameX="-26" frameY="-22" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20049" x="11" y="682" width="248" height="320" frameX="-16" frameY="-25" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20050" x="263" y="682" width="246" height="320" frameX="-8" frameY="-26" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20051" x="263" y="682" width="246" height="320" frameX="-8" frameY="-26" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20052" x="513" y="682" width="243" height="316" frameX="-1" frameY="-29" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20053" x="760" y="682" width="244" height="307" frameX="0" frameY="-39" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20054" x="11" y="1006" width="233" height="300" frameX="-10" frameY="-45" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20055" x="248" y="1006" width="210" height="322" frameX="-33" frameY="-23" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20056" x="463" y="1006" width="180" height="335" frameX="-64" frameY="-11" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20057" x="647" y="1006" width="168" height="336" frameX="-75" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20058" x="647" y="1006" width="168" height="336" frameX="-75" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20059" x="819" y="1006" width="176" height="336" frameX="-68" frameY="-9" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20060" x="11" y="1347" width="205" height="328" frameX="-39" frameY="-18" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20061" x="11" y="1347" width="205" height="328" frameX="-39" frameY="-18" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20062" x="220" y="1347" width="226" height="320" frameX="-18" frameY="-26" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20063" x="450" y="1347" width="201" height="342" frameX="-42" frameY="-3" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20064" x="655" y="1347" width="189" height="345" frameX="-55" frameY="0" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20065" x="655" y="1347" width="189" height="345" frameX="-55" frameY="0" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20066" x="11" y="1696" width="187" height="346" frameX="-56" frameY="0" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie chantin 20067" x="202" y="1696" width="189" height="346" frameX="-54" frameY="0" frameWidth="264" frameHeight="346" />
+	<SubTexture name="Zombie halting 20000" x="11" y="2387" width="234" height="327" frameX="0" frameY="-13" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20001" x="11" y="2387" width="234" height="327" frameX="0" frameY="-13" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20002" x="249" y="2387" width="233" height="328" frameX="-4" frameY="-13" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20003" x="249" y="2387" width="233" height="328" frameX="-4" frameY="-13" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20004" x="486" y="2387" width="228" height="333" frameX="-12" frameY="-8" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20005" x="718" y="2387" width="211" height="342" frameX="-29" frameY="0" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20006" x="718" y="2387" width="211" height="342" frameX="-29" frameY="0" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20007" x="11" y="2733" width="208" height="341" frameX="-41" frameY="-1" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20008" x="11" y="2733" width="208" height="341" frameX="-41" frameY="-1" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20009" x="223" y="2733" width="208" height="339" frameX="-34" frameY="-3" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20010" x="435" y="2733" width="213" height="337" frameX="-27" frameY="-5" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20011" x="435" y="2733" width="213" height="337" frameX="-27" frameY="-5" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20012" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20013" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20014" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20015" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20016" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20017" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20018" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20019" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20020" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20021" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20022" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20023" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20024" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20025" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20026" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20027" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20028" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20029" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20030" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20031" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20032" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20033" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20034" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20035" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20036" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20037" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20038" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20039" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20040" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20041" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20042" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20043" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20044" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20045" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20046" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20047" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20048" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20049" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20050" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20051" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20052" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20053" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20054" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20055" x="11" y="2387" width="234" height="327" frameX="0" frameY="-13" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20056" x="11" y="2387" width="234" height="327" frameX="0" frameY="-13" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20057" x="249" y="2387" width="233" height="328" frameX="-4" frameY="-13" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20058" x="249" y="2387" width="233" height="328" frameX="-4" frameY="-13" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20059" x="486" y="2387" width="228" height="333" frameX="-12" frameY="-8" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20060" x="718" y="2387" width="211" height="342" frameX="-29" frameY="0" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20061" x="718" y="2387" width="211" height="342" frameX="-29" frameY="0" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20062" x="11" y="2733" width="208" height="341" frameX="-41" frameY="-1" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20063" x="11" y="2733" width="208" height="341" frameX="-41" frameY="-1" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20064" x="223" y="2733" width="208" height="339" frameX="-34" frameY="-3" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20065" x="435" y="2733" width="213" height="337" frameX="-27" frameY="-5" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20066" x="435" y="2733" width="213" height="337" frameX="-27" frameY="-5" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20067" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20068" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20069" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie halting 20070" x="652" y="2733" width="216" height="336" frameX="-24" frameY="-6" frameWidth="249" frameHeight="342" />
+	<SubTexture name="Zombie walk 20000" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20001" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20002" x="250" y="3078" width="236" height="324" frameX="-4" frameY="-7" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20003" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20004" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20005" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20006" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20007" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20008" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20009" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20010" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20011" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20012" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20013" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20014" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20015" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20016" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20017" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20018" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20019" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20020" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20021" x="250" y="3078" width="236" height="324" frameX="-4" frameY="-7" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20022" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20023" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20024" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20025" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20026" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20027" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20028" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20029" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20030" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20031" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20032" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20033" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20034" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20035" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20036" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20037" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20038" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20039" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20040" x="250" y="3078" width="236" height="324" frameX="-4" frameY="-7" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20041" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20042" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20043" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20044" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20045" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20046" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20047" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20048" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20049" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20050" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20051" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20052" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20053" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20054" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20055" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20056" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20057" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20058" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20059" x="250" y="3078" width="236" height="324" frameX="-4" frameY="-7" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20060" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20061" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20062" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20063" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20064" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20065" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20066" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20067" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20068" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20069" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20070" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20071" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20072" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20073" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20074" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20075" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20076" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20077" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20078" x="250" y="3078" width="236" height="324" frameX="-4" frameY="-7" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20079" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20080" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20081" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20082" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20083" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20084" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20085" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20086" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20087" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20088" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20089" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20090" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20091" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20092" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20093" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20094" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20095" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20096" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20097" x="250" y="3078" width="236" height="324" frameX="-4" frameY="-7" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20098" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20099" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20100" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20101" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20102" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20103" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20104" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20105" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20106" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20107" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20108" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20109" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20110" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20111" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20112" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20113" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20114" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20115" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20116" x="250" y="3078" width="236" height="324" frameX="-4" frameY="-7" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20117" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20118" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20119" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20120" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20121" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20122" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20123" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20124" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20125" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20126" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20127" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20128" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20129" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20130" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20131" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20132" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20133" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20134" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20135" x="250" y="3078" width="236" height="324" frameX="-4" frameY="-7" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20136" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20137" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20138" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20139" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20140" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20141" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20142" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20143" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20144" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20145" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20146" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20147" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20148" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20149" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20150" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20151" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20152" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20153" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20154" x="250" y="3078" width="236" height="324" frameX="-4" frameY="-7" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20155" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20156" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20157" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20158" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20159" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20160" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20161" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20162" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20163" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20164" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20165" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20166" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20167" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20168" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20169" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20170" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20171" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20172" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20173" x="250" y="3078" width="236" height="324" frameX="-4" frameY="-7" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20174" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20175" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20176" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20177" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20178" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20179" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20180" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20181" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20182" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20183" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20184" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20185" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20186" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20187" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20188" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20189" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20190" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20191" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20192" x="250" y="3078" width="236" height="324" frameX="-4" frameY="-7" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20193" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20194" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20195" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20196" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20197" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20198" x="11" y="3415" width="215" height="330" frameX="-37" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20199" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20200" x="230" y="3415" width="220" height="329" frameX="-36" frameY="-2" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20201" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20202" x="454" y="3415" width="245" height="326" frameX="-17" frameY="-4" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20203" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20204" x="704" y="3415" width="247" height="325" frameX="-11" frameY="-6" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20205" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20206" x="11" y="3749" width="242" height="322" frameX="-3" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20207" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20208" x="257" y="3749" width="235" height="322" frameX="0" frameY="-9" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20209" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20210" x="11" y="3078" width="235" height="323" frameX="-2" frameY="-8" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20211" x="250" y="3078" width="236" height="324" frameX="-4" frameY="-7" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20212" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20213" x="490" y="3078" width="223" height="329" frameX="-17" frameY="-3" frameWidth="263" frameHeight="333" />
+	<SubTexture name="Zombie walk 20214" x="717" y="3078" width="215" height="333" frameX="-26" frameY="0" frameWidth="263" frameHeight="333" />
+</TextureAtlas>
